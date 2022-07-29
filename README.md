@@ -42,7 +42,7 @@ tutti i membri si riuniranno per un confronto sul progetto alle 14 in giorni pre
 -	I commit devono avere la seguente forma:
 	- Aggiunta/modifica HTML: **html: MODIFICA_HTML** (ES: **html: aggiunta navbar**)
 	- Aggiunta/modifica CSS: **style: MODIFICHE_CSS** (ES: **style: stile navbar**)
-	- Bugfix: bugfix: **#HASH_COMMIT_BUG** (ES: **bugfix: #f83a573**)
+	- Bugfix: **bugfix: #HASH_COMMIT_BUG, descrizione** (ES: **bugfix: #f83a573, navbar non reindirizza**)
 -	Basare il proprio lavoro sulle task assegnate nella sezione project di github
 -	NON LAVORARE SUI BRANCH NON ASSEGNATEVI.
 -	Le PR dovranno essere inviate ai sotto-branch di develop al quale si sta lavorando.
